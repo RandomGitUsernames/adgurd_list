@@ -42,3 +42,6 @@
 @@||graph-fallback.facebook.com^$important
 @@||4fc2dd91-80cd-4869-a0e7-9330b5aae5ac-netseer-ipaddr-assoc.xz.fbcdn.net^$important
 @@||access.clarivate.com^$important
+@@||device.report^$important
+@@||auth.you.com^$important
+
