@@ -44,4 +44,5 @@
 @@||access.clarivate.com^$important
 @@||device.report^$important
 @@||auth.you.com^$important
-
+@@||slurm.schedmd.com^$important
+@@||docs.sentry.io^$important
